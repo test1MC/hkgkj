@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="New Target"
@@ -13,7 +13,7 @@
   TopNavTocPath="true"
   Skin="/Project/Skins/Side-Navigation.flskn"
   ReplaceSpacesWithUnderscores="true"
-  DefaultUrl="/Content/Home.htm"
+  DefaultUrl="/Content/NewFolder/Home.htm"
   MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
   MasterStylesheetOverride="false"
   TopicToolbarSkin="/Project/Skins/Toolbar.flskn"
