@@ -13,7 +13,7 @@
   TopNavTocPath="true"
   Skin="/Project/Skins/Side-Navigation.flskn"
   ReplaceSpacesWithUnderscores="true"
-  DefaultUrl="/Content/NewFolder/Home.htm"
+  DefaultUrl="/Content/NewFolder/hjkh/Home.htm"
   MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
   MasterStylesheetOverride="false"
   TopicToolbarSkin="/Project/Skins/Toolbar.flskn"
